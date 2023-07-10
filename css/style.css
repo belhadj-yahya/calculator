@@ -86,7 +86,7 @@ body {
 
 @keyframes move {
     100% {
-        /* transform: translateY(-99vh); */
+        transform: translateY(-99vh);
     }
 }
 
